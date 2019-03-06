@@ -99,3 +99,12 @@ except ValueError:
 
 print('\n''Name:', name)
 print('Age:', age)
+
+# Program Tracing
+# Kristian Shyiak
+
+x = 20
+
+while x > 5:
+    print(x)
+    x = x - 2
